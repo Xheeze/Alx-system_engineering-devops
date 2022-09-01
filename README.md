@@ -1,2 +1,2 @@
 # Alx-system_engineering-devops
-Read The F* Manualer
+Read The F* Manual
