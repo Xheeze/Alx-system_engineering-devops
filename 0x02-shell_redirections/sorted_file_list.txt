@@ -11,3 +11,16 @@ school
 school_is_amazing
 so_cool
 tmp
+==> sorted_file_list.txt <==
+0x03_vi
+alx-pre_course
+alx-system_engineering-devops
+alx-zero_day
+file_list.txt
+new_school
+school
+school_is_amazing
+so_cool
+tmp
+tmp
+tmp
