@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 grep -i '^[[alpha]]' /etc/ssh/sshd_config
+=======
+grep -i "^[a-z]" /etc/ssh/sshd_config
+>>>>>>> e4672b607bca8bc6f22d13e3b354d27c329574ba
